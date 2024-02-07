@@ -1,0 +1,10 @@
+.App {
+ text-align: right;
+ background-image: image-set("C:/Users/שושנה/Documents/לימודים/react/myProject/finalproject/img/רקע לפרוייקט.jpg");
+ /* background-image: image-set("C:Users/שושנה/Documents/לימודים/react/myProject/finalproject/img/רקע לפרוייקט.jpg"); */
+ background-repeat: no-repeat;
+ background-size:cover;
+ width:  100%;
+ height:90vmin ;
+}
+
